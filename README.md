@@ -7,7 +7,7 @@ Interface মূলত object-এর structure define করার জন্য 
 
 ---
 
-## 2. What is the use of the `keyof` keyword in TypeScript? Provide an example.
+## 2. Explain the difference between any, unknown, and never types in TypeScript.
 
 **Answer:**  
 - **any** টাইপ মানে হলো যেকোনো value রাখতে পারা যায়। এটা সহজ, কিন্তু unsafe।  
